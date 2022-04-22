@@ -1,0 +1,61 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-color:rgb(255, 234, 238);
+}
+
+.header
+{
+	color:black;font-family: 'serif';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+	background: pink;float: none;border-radius: 15px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px; font-family:'Courier New', Courier, monospace;
+}
+
+#user_name{
+	border-radius: 4px;
+	border: 1px;
+}
+
+.jk{
+	font-family: serif;
+}
+
+#v{
+	width: 40%; border-radius:15px;font-family:'Courier New', Courier, monospace;
+}
+
+#output{
+	background:pink;float: none;border-radius: 15px;
+	
+}
+ .input_msg{
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 width: 100%;
+ }
+ #msg{
+	 width: 80%;
+ }
